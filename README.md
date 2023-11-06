@@ -13,4 +13,4 @@ license: mit
 
 # StreamlitLineBot
 
-![](img\2023-11-06204900.png)
+![](https://github.com/Sunwood-ai-labs/StreamlitLineBot/blob/main/img/2023-11-06204900.png)
